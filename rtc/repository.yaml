@@ -16,5 +16,5 @@ language_understand:
 risk_monitor:
   description: 
   git: https://github.com/rsdlab/risk_monitor.git
-  hash: c51b0bf5c20f594307594f532baf4ef018e3415e
+  hash: 64dd1371193f3fa37691c95e2ad3d64aedc4bc95
   repo_name: risk_monitor
