@@ -1,0 +1,20 @@
+speaker:
+  description: 
+  git: https://github.com/rsdlab/speaker.git
+  hash: bf548afcd29cddb0a85a1fc983b30606c915c3fa
+  repo_name: speaker
+recognition0:
+  description: 
+  git: https://github.com/rsdlab/recognition0.git
+  hash: 4e66204110e891b9ab08afc58b6fc2f9f6ecd1da
+  repo_name: recognition0
+language_understand:
+  description: 
+  git: https://github.com/rsdlab/language_understand.git
+  hash: 39f31b734977a1406f0b642f1d389ccf47105396
+  repo_name: language_understand
+risk_monitor:
+  description: 
+  git: https://github.com/rsdlab/risk_monitor.git
+  hash: c51b0bf5c20f594307594f532baf4ef018e3415e
+  repo_name: risk_monitor
