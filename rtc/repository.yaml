@@ -6,7 +6,7 @@ speaker:
 recognition0:
   description: 
   git: https://github.com/rsdlab/recognition0.git
-  hash: 4e66204110e891b9ab08afc58b6fc2f9f6ecd1da
+  hash: a5af8bbcc7fab14f14cd67c3283b45e339c2ee9c
   repo_name: recognition0
 language_understand:
   description: 
